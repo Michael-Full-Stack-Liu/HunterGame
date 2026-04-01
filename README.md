@@ -151,16 +151,4 @@ What still needs iteration:
 - richer event-level evaluation and analytics
 - more robust multi-company pipeline comparisons
 
-## Notes For GitHub Upload
 
-Before pushing this repo publicly, double-check that you are not committing:
-
-- `.env`
-- `config.yaml`
-- local database files
-- logs and traces
-- screenshots
-- personal profile/resume materials
-- private generated job-search artifacts
-
-The current `.gitignore` is set up to exclude those local files by default.
