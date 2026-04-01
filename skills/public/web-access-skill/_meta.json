@@ -1,0 +1,11 @@
+{
+  "owner": "adisinghstudent",
+  "slug": "web-access-claude-skill",
+  "displayName": "web-access-claude-skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1774245597904,
+    "commit": "https://github.com/openclaw/skills/commit/7c2d9465b381395fb9bc56fadb3f8930d908b343"
+  },
+  "history": []
+}

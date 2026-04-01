@@ -1,0 +1,25 @@
+{
+  "facts": [
+    {
+      "content": "User is interested in MLOps and AI infrastructure roles.",
+      "confidence": 1.0,
+      "created_at": "2026-01-01T09:00:00"
+    },
+    {
+      "content": "User prefers production-oriented engineering work over pure research roles.",
+      "confidence": 1.0,
+      "created_at": "2026-01-01T09:00:05"
+    },
+    {
+      "content": "User prefers direct, technical outreach with concrete proof points.",
+      "confidence": 1.0,
+      "created_at": "2026-01-01T09:00:10"
+    },
+    {
+      "content": "User is open to Toronto, Vancouver, and remote opportunities.",
+      "confidence": 1.0,
+      "created_at": "2026-01-01T09:00:15"
+    }
+  ],
+  "last_updated": "2026-01-01T09:00:15"
+}

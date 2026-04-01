@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Environment & Secrets
+.env
+*.env
+config.yaml
+
+# Local Tooling
+.codex
+docs/
+docs_blueprint/
+
+# Runtime Data
+data/
+data/harness.db
+data/harness.db-shm
+data/harness.db-wal
+data/traces.jsonl
+data/pending_approvals.json
+data/screenshots/
+data/logs/
+data/sandbox/
+test/last_acceptance_report.json
+
+# Personal / Sensitive Documents
+README_chinese.md
+data/profile.json
+data/memory.json
+data/resume.md
+data/resume.pdf
+data/*.pdf
+data/*.doc
+data/*.docx
+data/*.txt
+
+# IDEs
+.vscode/
+.idea/
+.project
+.pydevproject
+
+# System
+.DS_Store
+Thumbs.db
